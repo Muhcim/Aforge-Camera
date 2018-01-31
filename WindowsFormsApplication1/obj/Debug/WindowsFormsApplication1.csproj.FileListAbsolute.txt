@@ -1,0 +1,175 @@
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Controls.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Genetic.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Neuro.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Vision.dll
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Genetic.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Neuro.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Burak\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Vision.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Controls.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Genetic.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Neuro.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Vision.dll
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Genetic.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Neuro.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Vision.xml
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Burak\Desktop\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Fuzzy.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Genetic.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.Formats.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.MachineLearning.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Neuro.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Lego.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Surveyor.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Robotics.TeRK.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.FFMPEG.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Kinect.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.VFW.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.Ximea.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Vision.xml
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Aforge\BitirmeBitmis\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Controls.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Genetic.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Neuro.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Vision.dll
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Genetic.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Neuro.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\bin\Debug\AForge.Vision.xml
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Everest\Desktop\DirtyCountingCode\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
